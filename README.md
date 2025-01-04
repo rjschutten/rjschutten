@@ -2,8 +2,6 @@
 - 👀 I’m interested in C/C++/Python.
 - 🌱 I’m currently learning: Git.
 - 💞️ I’m looking to collaborate on homebridge projects.
-- 📫 Mastodon:@rjschutten@hachyderm.io
-- 😄 Pronouns: He/him.
 - ⚡ Fun fact: Just learned how to use git in 2024; I am late to the party!
 
 <!---
