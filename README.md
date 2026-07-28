@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rjschutten
-- 👀 I’m interested in C/C++/Python.
-- 🌱 I’m currently learning: Git.
-- 💞️ I’m looking to collaborate on homebridge projects.
-- ⚡ Fun fact: Just learned how to use git in 2024; I am late to the party!
+- Hi, I’m @rjschutten
+- I’m interested in C/C++/Python.
+- First home bridgeproject: https://github.com/rjschutten/homebridge-airspace-fan
 
 <!---
 rjschutten/rjschutten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
