@@ -1,6 +1,6 @@
 - Hi, I’m @rjschutten
 - I’m interested in C/C++/Python.
-- First home bridgeproject: https://github.com/rjschutten/homebridge-airspace-fan
+- First homebridge project: https://github.com/rjschutten/homebridge-airspace-fan
 
 <!---
 rjschutten/rjschutten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
